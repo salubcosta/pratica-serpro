@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 
 public class App {
-    private static final String PASSWORD = "dbBar80%a$";
+    private static final String PASSWORD = "###";
     private static final String USERNAME = "root";
     private static final String JDBC_URL = "jdbc:mysql://127.0.0.1:3306/pratica_01";
     public static void main(String[] args) throws Exception {
