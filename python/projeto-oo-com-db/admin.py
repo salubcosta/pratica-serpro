@@ -8,7 +8,7 @@ class admin():
         try:
             config = {
                 "user": "root",
-                "password": "dbBar80%a$",
+                "password": "senha",
                 "host": "localhost",
                 "database": "projeto_aeronave"
             }

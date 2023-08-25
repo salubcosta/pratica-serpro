@@ -5,7 +5,7 @@ def getConn():
         conn = pymysql.connect(
             host="localhost",
             user="root",
-            password="dbBar80%a$",
+            password="senha",
             db="PYTHON_UDEMY",
             charset="utf8mb4",
             cursorclass=pymysql.cursors.DictCursor
